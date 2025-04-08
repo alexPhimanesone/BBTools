@@ -2,6 +2,14 @@
 
 BBTools is a Python library for bounding box manipulations.
 
+## Clone the repository
+
+First, clone the project to your local machine:
+
+```bash
+git clone https://github.com/alexPhimanesone/BBTools.git
+```
+
 ## Installation
 
 Make sure you're using Python 3.8 or later.
