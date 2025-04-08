@@ -9,6 +9,9 @@ dependencies = [
   "matplotlib"
 ]
 
+[tool.setuptools]
+packages = ["bb_tools"]
+
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"

@@ -2,3 +2,6 @@
 
 __pycache__
 bb_tools/not_imp/
+
+bb_tools.egg-info/
+build/
