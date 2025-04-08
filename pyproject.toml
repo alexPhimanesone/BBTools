@@ -1,0 +1,14 @@
+[project]
+name = "bb_tools"
+version = "0.1.0"
+description = "Bounding box tools for ant tracking"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "numpy",
+  "matplotlib"
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
